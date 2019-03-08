@@ -9,6 +9,7 @@ BOM:
 - SD breakout board
 - SDS011/SDS018/SDS021
 - MT3333/MT3339/SIM28...
+- External battery, USB micro cable
 
 Steps: 
 - If not done, flash bootloader on Bluepill as per:
@@ -20,3 +21,5 @@ Steps:
 
 - Compile DaliDust.ino
 - Upload to Bluepill
+
+- Assemble device as per DaliDust.pdf instructions :)
